@@ -2,7 +2,7 @@
 # ✍️ HTML - Parágrafos e Quebras (Capítulo 05 - Aula 01)
 
 📅 Criado em: **15 de julho de 2025**  
-📚 Matéria: **Programação Web (HTML5-CSS3)**  
+📚 Matéria: **Programação Web (HTML5 e CSS3)**  
 ✍️ Autor: **Marco**
 
 ---
