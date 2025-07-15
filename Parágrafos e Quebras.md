@@ -1,5 +1,5 @@
 
-# ✍️ HTML - Parágrafos e Quebras (Capítulo 05 - Aula 01)
+# ✍️ HTML - Parágrafos e Quebras
 
 📅 Criado em: **15 de julho de 2025**  
 📚 Matéria: **Programação Web (HTML5 e CSS3)**  
