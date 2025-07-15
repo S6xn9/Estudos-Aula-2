@@ -2,7 +2,7 @@
 # ✍️ HTML - Parágrafos e Quebras (Capítulo 05 - Aula 01)
 
 📅 Criado em: **15 de julho de 2025**  
-📚 Matéria: **Desenvolvimento Web / HTML**  
+📚 Matéria: **Programação Web (HTML5-CSS3)**  
 ✍️ Autor: **Marco**
 
 ---
@@ -67,10 +67,5 @@ A segunda parte aparece abaixo, mas no mesmo parágrafo.</p>
 - `<br>`: Quebra de linha interna. Sem margem.
 - **Use cada tag com seu significado semântico correto**.
 - `<b>` e `<i>` são **estilos visuais** aplicados **dentro dos parágrafos**, não servem para estruturar o texto.
-
----
-
-### 🚀 Dica de Estudo
-Se possível, adicione essas anotações no seu Notion ou repositório pessoal. Criar seu próprio material ajuda a memorizar melhor!
 
 ---
